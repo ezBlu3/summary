@@ -1,0 +1,1 @@
+Basic stuff with github. Creating an account, navigate in the GUI, pull/push etc.
